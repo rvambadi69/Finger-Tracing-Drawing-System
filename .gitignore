@@ -90,3 +90,7 @@ venv.local
 # Assets (if any) - ignore DB files stored in assets
 assets/*.db
 assets/*.sqlite3
+
+# Dataset directory
+dataset/
+dataset/**
